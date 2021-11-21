@@ -1,0 +1,10 @@
+{
+  "title":"example app",
+  "type":"js",
+  "files":[
+    "index.js"
+  ],
+  "main":"index.js",
+  "version":[1,0,0],
+  "description":"A small example app for win93appman.",
+  }
